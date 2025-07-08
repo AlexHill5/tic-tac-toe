@@ -1,11 +1,11 @@
-import { Board } from "./components/Board"
+import { TicTacToeBoard } from "./components/TicTacToeBoard"
 
 
 function App() {
 
   return (
     <>
-        <Board />
+        <TicTacToeBoard />
     </>
   )
 }
